@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3ecd69f-7e9a-438d-a6e6-d3b8c3744f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/artifacts/basicServlet_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/artifacts/basicServlet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/basicServlet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/src/main/java/vadoss/servlet/basicservlet/AdditionServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/src/main/java/vadoss/servlet/basicservlet/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/src/main/webapp/numbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/target/basicServlet-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/target/basicServlet-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/target/basicServlet-1.0-SNAPSHOT/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/basicServlet/target/basicServlet-1.0-SNAPSHOT/numbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/jdbcInAction/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/jdbcInAction/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/jdbcInAction/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/jdbcInAction/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/jdbcInAction/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/jdbcInAction/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/jdbcInAction/jdbcInAction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ee/jdbcInAction/src/AccountDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_se" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userApplicationUseCase/src/main/java/vadoss/userapplicationusecase/userapplicationusecase/CreateUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userApplicationUseCase/src/main/java/vadoss/userapplicationusecase/userapplicationusecase/DeleteUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userApplicationUseCase/src/main/java/vadoss/userapplicationusecase/userapplicationusecase/ReadUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userApplicationUseCase/src/main/java/vadoss/userapplicationusecase/userapplicationusecase/UpdateUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userApplicationUseCase/src/main/webapp/addUser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userApplicationUseCase/src/main/webapp/deleteUser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userApplicationUseCase/src/main/webapp/updateUser.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_se" beforeDir="false" afterPath="$PROJECT_DIR$/java_se" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +108,7 @@
       <workItem from="1635423726710" duration="44937000" />
       <workItem from="1635780683666" duration="120000" />
       <workItem from="1635781197156" duration="15000" />
-      <workItem from="1635791276300" duration="863000" />
+      <workItem from="1635791276300" duration="1153000" />
     </task>
     <servers />
   </component>
